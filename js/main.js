@@ -5,7 +5,6 @@ const MODULE_CONFIG = [
     // 
     { id: 'alfabetos', cat: 'Juegos y Ocio', label: 'Generador Alfabetos', file: 'js/alfabetos.js' },
     { id: 'renfe', cat: 'Otros', label: 'Cercanías Renfe', file: 'js/renfe.js' },
-    { id: '47_picos', cat: 'Otros', label: '47 Picos', file: '47_picos.js' },
     { id: 'qr_generator', cat: 'Otros', label: 'QR Contacto', file: 'js/qr_generator.js' },
     { id: 'diccionario', cat: 'Otros', label: 'Diccionario Personal', file: 'js/diccionario.js' },
     { id: 'led', cat: 'Otros', label: 'Letrero LED', file: 'js/led.js' },

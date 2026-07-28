@@ -2,6 +2,7 @@
 const MODULE_CONFIG = [
     // Enlaces externos:
     { id: 'uam', cat: 'Física', label: 'Formularios', url: 'https://github.com/JorgeAcebes/Formularios' },
+    { id: '47_picos', cat: 'Otros', label: '47 Picos', url: 'https://47-picos-git-main-jorge-acebes.vercel.app/' },
     // 
     { id: 'alfabetos', cat: 'Juegos y Ocio', label: 'Generador Alfabetos', file: 'js/alfabetos.js' },
     { id: 'renfe', cat: 'Otros', label: 'Cercanías Renfe', file: 'js/renfe.js' },
